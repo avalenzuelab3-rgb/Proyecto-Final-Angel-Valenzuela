@@ -8,9 +8,7 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("\n=================================");
-            System.out.println(" SEMANA 1 - ROADMAP JAVA");
-            System.out.println("=================================");
+           
             System.out.println("1. Hola Mundo y datos personales");
             System.out.println("2. Variables y tipos de datos");
             System.out.println("3. Operaciones matematicas");
